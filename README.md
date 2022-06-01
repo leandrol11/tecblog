@@ -1,0 +1,1 @@
+3o Projeto do curso de desenvolvimento web, que consiste em um site de layout fixo de um site de notícias de tecnologia. Em sua construção foram utilizados conhecimentos básicos e intermediários em HTML e CSS. Neste projeto, eu segui parcialmente layout proposto pelo professor, bem como fiz diversas adições ao projeto inicialmente proposto.

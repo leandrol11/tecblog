@@ -1,0 +1,172 @@
+/* Formatações globais */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    background: #e6e6e6;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Cabeçalho e nav bar */
+h1 {
+    color: black;
+    font-size: 2.5em;
+}
+
+.white {
+    color: white;
+}
+
+#cabecalho {
+    background-color: rgb(11, 216, 11);
+    padding: 15px;
+    text-align: center;
+}
+
+#logo,
+#menu {
+    padding: 10px;
+}
+
+.amenu:link,
+.amenu:visited {
+    color: white;
+    padding: 8px 12px;
+}
+
+.amenu:hover {
+    color: rgb(11, 216, 11);
+    background: white;
+}
+
+/* timeline */
+#timeline {
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#postagens,
+#lateral {
+    background: white;
+}
+
+/* timeline: Postagens */
+#postagens {
+    width: 660px;
+    float: left;
+    padding-bottom: 20px;
+}
+
+/* timeline: lateral */
+
+#lateral {
+    width: 240px;
+    float: right;
+}
+
+/* timeline: rodapé */
+#rodape {
+    clear: both;
+    background: rgb(212, 206, 206);
+    text-align: center;
+    padding: 15px;
+}
+
+/* postagens */
+.postagem {
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+.link_postagem {
+    color: rgb(68, 67, 67);
+}
+
+.link_postagem:hover {
+    color: rgb(11, 216, 11);
+}
+
+.data_postagem {
+    font-size: 0.8em;
+    display: block;
+    padding-bottom: 5px;
+}
+
+/* lateral */
+
+h3 {
+    color: rgb(11, 216, 11);
+    background: #ccc;
+    text-align: center;
+    padding: 5px 0 5px 0;
+}
+
+/* postagens lateral */
+
+.postagem_lateral {
+    padding: 10px;
+}
+
+h4 {
+    font-size: 1.3em;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.link_lateral {
+    color: rgb(68, 67, 67);
+}
+
+.link_lateral:hover {
+    color: rgb(11, 216, 11);
+}
+
+.data_lateral {
+    font-size: 0.8em;
+    display: block;
+    padding-bottom: 5px;
+}
+
+/* noticias */
+.noticia {
+    background: white;
+}
+
+.titulo_noticia {
+    text-align: center;
+    padding: 20px;
+    display: block;
+}
+
+.img_noticia {
+    border: 10px solid white;
+    width: 900px;
+}
+
+.texto_noticia {
+    padding: 20px;
+}
+
+#postagens_especializados {
+    background: white;
+    padding: 20px;
+    padding-bottom: 0;
+}
+
+.img_especializados {
+    width: 840px;
+}
